@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishaq AL Balushi</h1>
 <h3 align="center">A passionate Full Stack developer from Oman</h3>
 
+<p align="center">
+  <a href="https://backiee.com/wallpaper/techsavvy-anime-programmers-haven/286745" target="_blank" rel="noopener noreferrer">
+    <img src="assets/hero.png" alt="Developer workspace illustration" width="100%" />
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engishaqalbalushi&label=Profile%20views&color=0e75b6&style=flat" alt="engishaqalbalushi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engishaqalbalushi" alt="engishaqalbalushi" /></a> </p>

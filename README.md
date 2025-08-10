@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishaq AL Balushi</h1>
 <h3 align="center">A passionate Full Stack developer from Oman</h3>
-<p align="left"> <img src="https://github.com/EngIshaqalbalushi/EngIshaqalbalushi/blob/main/d2bd2fc7c604b0384f06f3c0d594b087.webp" alt="engishaqalbalushi" width="50%" /> </p>
+<p align="left"> <img src="https://github.com/EngIshaqalbalushi/EngIshaqalbalushi/blob/main/386745.webp" alt="engishaqalbalushi" width="50%" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engishaqalbalushi&label=Profile%20views&color=0e75b6&style=flat" alt="engishaqalbalushi" /> </p>

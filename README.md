@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishaq AL Balushi</h1>
 <h3 align="center">A passionate Full Stack developer from Oman</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=engishaqalbalushi&label=Profile%20views&color=0e75b6&style=flat" alt="engishaqalbalushi" />
-</p>
-
+<p align="left"> <img src="https://github.com/EngIshaqalbalushi/EngIshaqalbalushi/blob/main/386745.webp" alt="engishaqalbalushi" width="100%" /> </p>
 
 
 ## 📊 GitHub Stats:

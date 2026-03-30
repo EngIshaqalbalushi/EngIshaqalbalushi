@@ -6,13 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=engishaqalbalushi&label=Profile%20views&color=0e75b6&style=flat" alt="engishaqalbalushi" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=engishaqalbalushi" alt="engishaqalbalushi" />
-  </a>
-</p>
 
-<p align="left"></p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=EngIshaqalbalushi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)

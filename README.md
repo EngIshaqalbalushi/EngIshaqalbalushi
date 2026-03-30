@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from Oman</h3>
 
 <p align="left"> <img src="https://github.com/EngIshaqalbalushi/EngIshaqalbalushi/blob/main/386745.webp" alt="engishaqalbalushi" width="100%" /> </p>
-[[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark)
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark)"><img src="https://github-profile-trophy.vercel.app/?username=engishaqalbalushi" alt="engishaqalbalushi" /></a> </p>
 
 ## 📊 GitHub Stats:
 
